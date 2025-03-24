@@ -1,2 +1,2 @@
-function add(a, b) { return a - b; } // Mistake: Using subtraction instead of addition
+function add(a, b) { return a + b; } // Fixed!
 module.exports = add;
